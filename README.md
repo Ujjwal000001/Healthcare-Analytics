@@ -23,6 +23,10 @@ This healthcare analytics dashboard helps hospital administrators identify effic
 
 # Data
 
+**Dataset:**
+
+    https://github.com/Ujjwal000001/Healthcare-Analytics/blob/main/hospital_inpatient_discharges_totalhipreplacement.csv
+
 **New York State Hospital Discharge Data featuring:**
 
     151 hospitals across 7 health service areas
@@ -102,3 +106,10 @@ Temporal analysis of inpatient stays
     Quality Improvement: Reduce skilled nursing referrals (high-LOS driver)
 
 6. Screenshots
+
+   ![image](https://github.com/user-attachments/assets/89345de9-5403-43a0-aa9e-955730a46adc)
+   ![image](https://github.com/user-attachments/assets/88856c10-b12b-4ddd-84a3-52c2a4295953)
+   ![image](https://github.com/user-attachments/assets/44abe27c-14ea-4a11-9b4f-7b9dfdfd39ec)
+
+
+
