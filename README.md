@@ -27,7 +27,7 @@ This healthcare analytics dashboard helps hospital administrators identify effic
 
     https://github.com/Ujjwal000001/Healthcare-Analytics/blob/main/hospital_inpatient_discharges_totalhipreplacement.csv
 
-**PowerBI Report:**
+**PowerBI Report/ Dashboard:**
 
     https://github.com/Ujjwal000001/Healthcare-Analytics/blob/main/HealthCare%20Analytics.pbix
 
