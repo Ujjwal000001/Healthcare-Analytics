@@ -27,6 +27,10 @@ This healthcare analytics dashboard helps hospital administrators identify effic
 
     https://github.com/Ujjwal000001/Healthcare-Analytics/blob/main/hospital_inpatient_discharges_totalhipreplacement.csv
 
+**PowerBI Report:**
+
+    https://github.com/Ujjwal000001/Healthcare-Analytics/blob/main/HealthCare%20Analytics.pbix
+
 **New York State Hospital Discharge Data featuring:**
 
     151 hospitals across 7 health service areas
