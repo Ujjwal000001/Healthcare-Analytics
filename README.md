@@ -1,6 +1,6 @@
 # Healthcare-Analytics
 
-# HealthStat: Elective Hip Replacement Analytics
+# Healthcare Analytics Dashboard – Elective Hip Replacement (Power BI Project)
 
 *Optimizing Hospital Efficiency Through Length-of-Stay and Cost Analysis*
 A Power BI dashboard analyzing 151 New York hospitals performing elective hip replacement surgeries, focusing on operational efficiency metrics.
